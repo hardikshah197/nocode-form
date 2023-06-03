@@ -1,0 +1,24 @@
+.heading {
+    font-size: 2rem;
+    width: 100%;
+    margin: auto;
+    padding-bottom: 20px;
+}
+
+.form-container {
+    width: 100%;
+    margin: auto;
+}
+
+.container {
+    margin-top: 1.5rem!important;
+    width: 750px;
+    border: 1px black solid;
+    padding: 30px;
+    border-radius: 30px;
+    background: aliceblue;
+}
+
+.btn-primary {
+    margin: 0 45%;
+}
